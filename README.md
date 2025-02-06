@@ -1,2 +1,3 @@
 "# Diffusion-Labs-Assignment" 
-# This is an assignment of diffusion labs i here are the instrucitons:
+# This is an assignment of diffusion labs :
+# For detailed information on this look at the Report pdf.
